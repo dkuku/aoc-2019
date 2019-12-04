@@ -1,4 +1,4 @@
-defmodule Aoc2019 do
+defmodule Aoc201904 do
   @moduledoc """
   Documentation for Aoc2019.
   """
